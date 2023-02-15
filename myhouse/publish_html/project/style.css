@@ -1,0 +1,21 @@
+body{
+    background-color:#FFEDB8;
+}
+.bebra
+{
+color: darkgreen;
+font-weight: bold;
+font-size: 20pt;
+}
+h1
+{
+color: darkslategray;
+font-weight: bold;
+font-size: 30pt;
+}
+a:hover {text-decoration:underline green;}
+
+.svet:hover,
+.svet:focus{
+    color: red;
+}

@@ -1,0 +1,92 @@
+body{
+    background-image: url(fon9.jpg);
+}
+h1 {
+    text-align: center;
+    color: #0000FF;
+    font-family: Verdana;
+    font-size: 20pt;
+}
+h2 {
+    text-align: right;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 16pt;
+}
+p {
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+}
+body{
+    background-color: #99ccff;
+}
+h3 {
+    color: #0000FF;
+    
+}
+ol{
+    color: #bd5b00;
+    list-style-type: upper-roman;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ul{
+    list-style-image: url(spisok_1.gif);
+    color: #bd5b00;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+h1.main{
+   color:navy;
+   font-family: Verdana;
+   text-align: left;
+   font-size: 14pt; 
+}
+h1.golub{
+    color:blue;
+    font-family: Verdana;
+    text-align: left;
+    font-size: 14pt; 
+ }
+ h1.krasn{
+    color:red;
+    font-family: Verdana;
+    text-align: left;
+    font-size: 14pt; 
+ }
+ h1.zelen{
+    color:green;
+    font-family: Verdana;
+    text-align: left;
+    font-size: 14pt; 
+ }
+ h1.oranzhev{
+    color:orange;
+    font-family: Verdana;
+    text-align: left;
+    font-size: 14pt; 
+ }
+p.text1{
+    color: navy;
+    text-align: center;
+}
+p.text2{
+    color: blue;
+    text-align: justify;
+}
+p.text3{
+    color: red;
+    text-align: left;
+}
+p.text4{
+    color: green;
+    text-align: right;
+}
+p.text5{
+    color: orange;
+    text-align:center;
+}
+ 

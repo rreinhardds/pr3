@@ -1,0 +1,14 @@
+#blue{color:#0000CC;font-family: Tahoma}
+#blue_2{color: #3366ff; font-family: Tahoma;}
+
+#brown{color: #996633; font-family: Times;}
+#brown_2{color: #cc6600; font-family: Times;}
+
+body{
+    background-color: #ccffff;
+}
+a:hover {text-decoration:underline green; text-decoration-color:red}
+.svet:hover,
+.svet:focus{
+    color: red;
+}
